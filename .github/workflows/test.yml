@@ -1,7 +1,7 @@
 name: djangoci test
 on: push
-    branches:
-      -master
+      branches:
+        -master
 
 jobs:
   test:
