@@ -1,4 +1,5 @@
 
 
 def test_dummy(client) -> None:
-    assert 1 == 2
+    assert 1 == 1
+
