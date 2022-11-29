@@ -1,6 +1,6 @@
 name: djangoci test
 on: 
-  push
+  push:
     branches: [ master ]
 
 jobs:
